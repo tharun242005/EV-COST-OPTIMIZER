@@ -1,0 +1,17 @@
+{
+  "nodes": [
+    {"id":1,"name":"Depot","lat":12.9716,"lon":77.5946,"cost_per_kwh":12.0,"max_kwh":50,"speed_kW":50},
+    {"id":2,"name":"Station A","lat":12.9750,"lon":77.5990,"cost_per_kwh":9.5,"max_kwh":50,"speed_kW":100},
+    {"id":3,"name":"Station B","lat":12.9802,"lon":77.5900,"cost_per_kwh":15.0,"max_kwh":40,"speed_kW":50},
+    {"id":4,"name":"Destination","lat":12.9850,"lon":77.5970,"cost_per_kwh":0,"max_kwh":0,"speed_kW":0}
+  ],
+  "edges": [
+    {"from":1,"to":2,"distance_km":2.0,"time_min":6},
+    {"from":2,"to":3,"distance_km":3.0,"time_min":9},
+    {"from":3,"to":4,"distance_km":2.5,"time_min":8},
+    {"from":1,"to":3,"distance_km":4.8,"time_min":12},
+    {"from":2,"to":4,"distance_km":6.0,"time_min":18}
+  ],
+  "vehicle":{"battery_kwh":60,"initial_soc_pct":80,"consumption_kwh_per_km":0.2}
+}
+

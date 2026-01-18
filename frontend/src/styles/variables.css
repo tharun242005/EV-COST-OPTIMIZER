@@ -1,0 +1,17 @@
+:root {
+	--bg: #061426;
+	--panel: rgba(255, 255, 255, 0.04);
+	--glass-border: rgba(255, 255, 255, 0.12);
+	--accent-cyan: #00e5ff;
+	--accent-violet: #7c3aed;
+	--text: #e6eef8;
+}
+
+@media (prefers-reduced-motion: reduce) {
+	* {
+		animation: none !important;
+		transition: none !important;
+	}
+}
+
+
