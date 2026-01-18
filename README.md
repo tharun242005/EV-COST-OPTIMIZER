@@ -180,6 +180,10 @@ Ev_cost_optimization/
 │   ├── vite.config.ts
 │   └── tailwind.config.js
 │
+├──PROTOTYPE_EXAMPLE_1.png
+├──PROTOTYPE_EXAMPLE_2.png
+├──PROTOTYPE_IMAGE.png
+│
 ├── backend/
 │   ├── src/
 │   │   ├── server.ts                  # Express server setup and middleware
