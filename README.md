@@ -1,6 +1,6 @@
-# ChargeRoute - EV Cost Optimization Platform
+# EV Cost Optimization Platform
 
-ChargeRoute is a React + TypeScript web application for intelligent electric vehicle (EV) route optimization. It calculates the most cost-efficient paths between charging stations by analyzing energy consumption, battery state-of-charge (SOC), charging costs, and distance. The platform features real-time route visualization on Google Maps, detailed cost analysis, and support for multiple optimization strategies (cost, time, and hybrid).
+EV Cost Optimizer is a React + TypeScript web application for intelligent electric vehicle (EV) route optimization. It calculates the most cost-efficient paths between charging stations by analyzing energy consumption, battery state-of-charge (SOC), charging costs, and distance. The platform features real-time route visualization on Google Maps, detailed cost analysis, and support for multiple optimization strategies (cost, time, and hybrid).
 
 ---
 
@@ -467,6 +467,6 @@ For licensing inquiries, please contact the project maintainer.
 
 ---
 
-**Built by [THARUN P](https://www.linkedin.com/in/tharun-p-4146b4318/) from [AlgoNomad](https://github.com/tharun242005)**
+**Built by [THARUN P](https://www.linkedin.com/in/tharun-p-4146b4318/) from (https://github.com/tharun242005)**
 
-© 2025 ChargeRoute. All rights reserved.
+© 2025 THARUN P EV Cost Optimizer. All rights reserved.
