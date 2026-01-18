@@ -469,4 +469,4 @@ For licensing inquiries, please contact the project maintainer.
 
 **Built by [THARUN P](https://www.linkedin.com/in/tharun-p-4146b4318/) from (https://github.com/tharun242005)**
 
-© 2025 THARUN P EV Cost Optimizer. All rights reserved.
+© 2025 EV Cost Optimizer. All rights reserved.
